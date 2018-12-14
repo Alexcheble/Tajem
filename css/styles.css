@@ -24,7 +24,6 @@
  	z-index: 3;
 }
 
-
 .main-content-container {
 	max-width: 940px;
 	margin: auto;
@@ -61,6 +60,7 @@
 a.menu-text-link:hover {
 	background: none;
 	color: #00e0d0;
+	text-decoration: none;
 }
 
 a.menu-text-link {
